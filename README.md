@@ -9,8 +9,10 @@ ShortListResumes
 ├── src
 │   ├── agents
 │   │   ├── __init__.py
-│   │   ├── base_agent.py
-│   │   └── shortlister_agent.py
+│   │   ├── feedback_agent.py
+│   │   ├── filter_agent.py
+│   │   ├── rate_agent.py
+│   │   └── scoring_agent.py
 │   ├── config
 │   │   ├── __init__.py
 │   │   └── settings.py
